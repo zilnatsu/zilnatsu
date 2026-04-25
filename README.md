@@ -1,8 +1,11 @@
-## Hello World! 
+<h2 align="center">Hello World!</h2>
 
 <div align="center">
   <p>
-    <img align="center" alt="count" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNkNTMzNXNmOGV4d2p4c3gxbmszd2FrdHdzdnZib2p1MHFxbmV4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPipgrovqOodyYo/giphy.gif" width="1020px"/>
+    <img align="center" alt="count" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJ4Mzkwa2s1aGp0MWM5Mjgwd3dhcmpyZDhhYjB3YWZmMGJrbnhybCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Qyml5wziJeHreuOdzu/giphy.gif" width="100px"/>
+    <img align="center" alt="count" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJ4Mzkwa2s1aGp0MWM5Mjgwd3dhcmpyZDhhYjB3YWZmMGJrbnhybCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Q7pDtp0bIvJFgRsHHN/giphy.gif" width="100px"/>
+    <img align="center" alt="count" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJ4Mzkwa2s1aGp0MWM5Mjgwd3dhcmpyZDhhYjB3YWZmMGJrbnhybCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ge9Ep3RJLGlNEn0UfC/giphy.gif" width="100px"/>
+    <img align="center" alt="count" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJ4Mzkwa2s1aGp0MWM5Mjgwd3dhcmpyZDhhYjB3YWZmMGJrbnhybCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dup6jDyj6Yk6z5M8nN/giphy.gif" width="100px"/>
   </p>
 </div>
 
@@ -10,7 +13,7 @@
 
 <h2 align="center">About Me</h2>
 
-<img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlyN2NsbDd2dnB4aG1raDZqcGt1YWx4d28yZTdya3UzaTlvaW1zZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7K3PyqxZYCZyzMpU3I/giphy.gif" width="130px"/>
+<img align="left" src="ryan.jpg" width="130px"/>
 
 ```cpp
 Profile Version: 1.0
