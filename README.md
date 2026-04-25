@@ -1,5 +1,3 @@
-<h2 align="center">Hello World!</h2>
-
 <div align="center">
   <p>
     <img align="center" alt="count" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJ4Mzkwa2s1aGp0MWM5Mjgwd3dhcmpyZDhhYjB3YWZmMGJrbnhybCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Qyml5wziJeHreuOdzu/giphy.gif" width="100px"/>
@@ -8,8 +6,6 @@
     <img align="center" alt="count" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJ4Mzkwa2s1aGp0MWM5Mjgwd3dhcmpyZDhhYjB3YWZmMGJrbnhybCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dup6jDyj6Yk6z5M8nN/giphy.gif" width="100px"/>
   </p>
 </div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
 <h2 align="center">About Me</h2>
 
@@ -32,7 +28,9 @@ Terminal: Visual Studio Code
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
-<p align = "justify">Language that I'm interested in</p>
+<p align = "justify">Language that I'm interested in:</p>
 <p>
-  <img style="margin: 10px;"src="https://skillicons.dev/icons?i=js,ts,cpp,cs,java&perline=5"/> 
+  <a href="https://github.com/zilnatsu">
+    <img style="margin: 10px;"src="https://skillicons.dev/icons?i=js,ts,cpp,cs,java,py&perline=7"/> 
+  </a>
 </p>
