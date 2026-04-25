@@ -22,8 +22,8 @@ Waifu: 鹿野 千夏 (Chinatsu Kano)
 Location: Indonesia, Riau
 Hobbies: Watching Anime, Playing Game, Programming and Editing Video
 
-OS: Windows 11 Pro [64-bit]
-Terminal: Visual Studio Code
+OS: Windows 11 Pro
+IDE: Visual Studio Code
 ```
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
