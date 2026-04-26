@@ -12,12 +12,13 @@
 <img align="left" src="ryan.jpg" width="130px"/>
 
 ```cpp
-Profile Version: 1.0
+Profile Version: 1.1
 -------------------------------
 Username: zilnatsu.
-WhoAmI: Informatics Engineering Student / Beginner Coder
+Who Am I: Informatics Engineering Student / Beginner Coder
 
 Favourite Anime: 僕のヒーローアカデミア (My Hero Academia)
+Favourite Game: Zenless Zone Zero
 Waifu: 鹿野 千夏 (Chinatsu Kano)
 Location: Indonesia, Riau
 Hobbies: Watching Anime, Playing Game, Programming and Editing Video
@@ -34,3 +35,14 @@ IDE: Visual Studio Code
     <img style="margin: 10px;"src="https://skillicons.dev/icons?i=js,ts,cpp,cs,java,py&perline=7"/> 
   </a>
 </p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+
+<div align="center">
+  <p>
+    <img align="center" alt="count" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3VtaGdseDNjczYycHJjZGw0eW1yNmw2M2JxM2hrMWR4c3psMGR0cCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Tgvn82bqJT36lkVqDZ/giphy.gif" width="100px"/>
+    <img align="center" alt="count" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V2eTlsaWppM2Z2dGNlZm9mZHNzdmUzZzlvcWU4NW9zdmgybjd2bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/t1j3KW8BXTzccCLdNb/giphy.gif" width="100px"/>
+    <img align="center" alt="count" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3VtaGdseDNjczYycHJjZGw0eW1yNmw2M2JxM2hrMWR4c3psMGR0cCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/n881nu8KO2tJ5VtJ7U/giphy.gif" width="100px"/>
+  </p>
+  <p align="center">You've been reached the end of my profile readme. :3</p>
+</div>
