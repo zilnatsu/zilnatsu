@@ -15,7 +15,7 @@
 Profile Version: 1.1
 -------------------------------
 Username: zilnatsu.
-Who Am I: Informatics Engineering Student / Beginner Coder
+Who Am I: Student / Beginner Coder
 
 Favourite Anime: 僕のヒーローアカデミア (My Hero Academia)
 Favourite Game: Zenless Zone Zero
