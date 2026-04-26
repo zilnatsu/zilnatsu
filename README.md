@@ -29,8 +29,8 @@ IDE: Visual Studio Code
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
-<p align = "justify">Language that I'm interested in:</p>
-<p>
+<p align = "center">Language that I'm interested in:</p>
+<p align = "center">
   <a href="https://github.com/zilnatsu">
     <img style="margin: 10px;"src="https://skillicons.dev/icons?i=js,ts,cpp,cs,java,py&perline=7"/> 
   </a>
