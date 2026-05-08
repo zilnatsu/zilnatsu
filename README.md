@@ -24,7 +24,7 @@ Location: Indonesia, Riau
 Hobbies: Watching Anime, Playing Game, Programming and Editing Video
 
 OS: Windows 11 Pro
-IDE: Visual Studio Code
+IDE: Visual Studio Code, IntelliJ IDEA
 ```
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
