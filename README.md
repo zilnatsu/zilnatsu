@@ -12,7 +12,7 @@
 <img align="left" src="ryoyamada.jpeg" width="130px"/>
 
 ```cpp
-Hi, I'm Fazil Altaf
+Hi, I am Fazil Altaf
 ---------------------------------------------------------------------
 Username: zilnatsu.
 Who Am I: Student / Beginner Coder
