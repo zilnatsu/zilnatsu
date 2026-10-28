@@ -9,7 +9,7 @@
 
 <h2 align="center">About Me</h2>
 
-<img align="left" src="ryoyamada.jpg" width="130px"/>
+<img align="left" src="ryoyamada.jpeg" width="130px"/>
 
 ```cpp
 Hi, I'm Fazil Altaf
