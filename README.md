@@ -9,14 +9,17 @@
 
 <h2 align="center">About Me</h2>
 
-<img align="left" src="ryan.jpg" width="130px"/>
+<img align="left" src="ryoyamada.jpg" width="130px"/>
 
 ```cpp
+Hi, I'm Fazil Altaf
+---------------------------------------------------------------------
 Username: zilnatsu.
 Who Am I: Student / Beginner Coder
 
 Favourite Anime: 僕のヒーローアカデミア (My Hero Academia)
-Location: Indonesia
+Favourite Game: Resident Evil 4 (2023)
+Location: Indonesia, Riau
 Hobbies: Watching Anime, Playing Game, Programming, and Editing Video
 ```
 
