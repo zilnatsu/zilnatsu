@@ -12,19 +12,12 @@
 <img align="left" src="ryan.jpg" width="130px"/>
 
 ```cpp
-Profile Version: 1.1
--------------------------------
 Username: zilnatsu.
 Who Am I: Student / Beginner Coder
 
 Favourite Anime: 僕のヒーローアカデミア (My Hero Academia)
-Favourite Game: Zenless Zone Zero
-Waifu: 鹿野 千夏 (Chinatsu Kano)
-Location: Indonesia, Riau
-Hobbies: Watching Anime, Playing Game, Programming and Editing Video
-
-OS: Windows 11 Pro
-IDE: Visual Studio Code, IntelliJ IDEA
+Location: Indonesia
+Hobbies: Watching Anime, Playing Game, Programming, and Editing Video
 ```
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
