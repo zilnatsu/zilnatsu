@@ -17,15 +17,17 @@ Hi, I am Fazil Altaf
 Username: zilnatsu.
 Who Am I: Student / Beginner Coder
 
-Favourite Anime: 僕のヒーローアカデミア (My Hero Academia)
-Favourite Game: Resident Evil 4 (2023)
+Favorite Anime: 僕のヒーローアカデミア (My Hero Academia)
+Favorite Game: Resident Evil 4 (2023)
 Location: Indonesia, Riau
 Hobbies: Watching Anime, Playing Game, Programming, and Editing Video
+
+Currently active in: Learning Rust Programming Languange
 ```
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
-<p align = "center">Language that I'm interested in:</p>
+<p align = "center">Programming language that I'm interested in:</p>
 <p align = "center">
   <a href="https://github.com/zilnatsu">
     <img style="margin: 10px;"src="https://skillicons.dev/icons?i=rust,js,ts,cpp,cs,java,py&perline=7"/> 
