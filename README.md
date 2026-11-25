@@ -28,7 +28,7 @@ Hobbies: Watching Anime, Playing Game, Programming, and Editing Video
 <p align = "center">Language that I'm interested in:</p>
 <p align = "center">
   <a href="https://github.com/zilnatsu">
-    <img style="margin: 10px;"src="https://skillicons.dev/icons?i=js,ts,cpp,cs,java,py&perline=7"/> 
+    <img style="margin: 10px;"src="https://skillicons.dev/icons?i=rust,js,ts,cpp,cs,java,py&perline=7"/> 
   </a>
 </p>
 
