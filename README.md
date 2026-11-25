@@ -13,6 +13,7 @@
 
 ```cpp
 Hi, I am Fazil Altaf
+Currently active in: A private Android app development.
 ---------------------------------------------------------------------
 Username: zilnatsu.
 Who Am I: Student / Beginner Coder
