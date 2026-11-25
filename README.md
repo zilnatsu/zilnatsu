@@ -22,7 +22,7 @@ Favorite Game: Resident Evil 4 (2023)
 Location: Indonesia, Riau
 Hobbies: Watching Anime, Playing Game, Programming, and Editing Video
 
-Currently active in: Learning Rust Programming Languange
+Currently active in: A private Android app development
 ```
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
